@@ -1,6 +1,6 @@
 # Framework-de-persistance-Hibernate 
 
-#Diagrame de classe d'exercice 1:
+Diagrame de classe d'exercice 1:
 
 ![image](https://github.com/adnan-khadija/Hibernate/assets/147508009/a5d5f422-2fc9-4f6f-846d-f03e24f282a0)
 
