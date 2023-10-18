@@ -2,13 +2,13 @@
 
 #Diagrame de classe d'exercice 1:
 
-![h1](https://github.com/adnan-khadija/Hibernate/assets/147508009/e9644338-3d48-4693-9020-4e4eef30a6b4)
+![image](https://github.com/adnan-khadija/Hibernate/assets/147508009/a5d5f422-2fc9-4f6f-846d-f03e24f282a0)
 
 #Diagrame de classe d'exercice 3:
-![Exo3](https://github.com/adnan-khadija/Hibernate/assets/147508009/df4e9256-5e16-429e-9e2a-2409aef71e6b)
+![image](https://github.com/adnan-khadija/Hibernate/assets/147508009/7dbad57e-7608-4a4c-9201-5f3aa2de03e1)
 
 
 #Diagrame de classe de travail à faire:
-![TAF](https://github.com/adnan-khadija/Hibernate/assets/147508009/bf697317-33ee-4d3e-8891-af8656410720)
+![image](https://github.com/adnan-khadija/Hibernate/assets/147508009/f5899968-ef74-47c8-b8c5-424797a76346)
 
 
